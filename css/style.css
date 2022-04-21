@@ -1,8 +1,30 @@
 ul{
     list-style: none;
 }
-
+header{
+    background-color: orange;
+    border-radius: 5px;
+}
 nav li{
     display: inline-block;
+    
+    border:solid;
+    background-color: rgb(255, 196, 0);
+    border-color: rgb(255, 196, 0);
+    border-radius: 0.7em;
+    border-width: 1em;
+}
+form{
+    position: relative;
+    left: 1500px;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: black;
 }
 
+a{
+    text-decoration: none;
+}
